@@ -107,102 +107,127 @@ Changelog:
 		<text name="input_tsd_toggleConfig">
 			<de>AbkippHUD: Konfiguration</de>
 			<en>TipSideHUD: Configuration</en>
+			<cz>TipSideHUD: Konfigurace</cz>
 		</text>
 		<text name="input_tsd_upConfig">
 			<de>AbkippHUD: Menüpunkt rauf</de>
 			<en>TipSideHUD: Menu up</en>
+			<cz>TipSideHUD: Menu nahoru</cz>
 		</text>	
 		<text name="input_tsd_downConfig">
 			<de>AbkippHUD: Menüpunkt runter</de>
 			<en>TipSideHUD: Menu down</en>
+			<cz>TipSideHUD: Menu dolů</cz>
 		</text>	
 		<text name="input_tsd_changeConfig">
 			<de>AbkippHUD: Ändern</de>
 			<en>TipSideHUD: Change</en>
+			<cz>TipSideHUD: Změna</cz>
 		</text>			
 		<text name="conf_heading">
 			<de>TipSideHud Konfiguration</de>
 			<en>TipSideHud Configuration</en>
+			<cz>TipSideHUD: Konfigurace</cz>
 		</text>		
 		<text name="PositionIndex">
 			<de>Position ändern</de>
 			<en>Change position</en>
+			<cz>Změň pozici</cz>
 		</text>
 		<text name="ColorIndex">
 			<de>Farbe ändern</de>
 			<en>Change color</en>
+			<cz>Změň barvu</cz>
 		</text>
 		<text name="IconSetIndex">
 			<de>Icons</de>
 			<en>Icons</en>
+			<cz>Ikony</cz>
 		</text>
 		<text name="ShowText">
 			<de>Text anzeigen</de>
 			<en>Show text</en>
+			<cz>Zobrazit text</cz>
 		</text>
 		<text name="Scaling">
 			<de>Größenskalierung</de>
 			<en>Size scaling</en>
+			<cz>Velikost</cz>
 		</text>
 		<text name="col_white">
 			<de>Weiss</de>
 			<en>White</en>
+			<cz>Bílá</cz>
 		</text>
 		<text name="col_black">
 			<de>Schwarz</de>
 			<en>Black</en>
+			<cz>Černá</cz>
 		</text>
 		<text name="col_grey">
 			<de>Grau</de>
 			<en>Grey</en>
+			<cz>Šedá</cz>
 		</text>
 		<text name="col_blue">
 			<de>Blau</de>
 			<en>Blue</en>
+			<cz>Modrá</cz>
 		</text>
 		<text name="col_red">
 			<de>Rot</de>
 			<en>Red</en>
+			<cz>Červená</cz>
 		</text>
 		<text name="col_green">
 			<de>Grün</de>
 			<en>Green</en>
+			<cz>Zelená</cz>
 		</text>
 		<text name="col_yellow">
 			<de>Gelb</de>
 			<en>Yellow</en>
+			<cz>Žlutá</cz>
 		</text>
 		<text name="col_pink">
 			<de>Pink</de>
 			<en>Pink</en>
+			<cz>Růžová</cz>
 		</text>
 		<text name="col_turquoise">
 			<de>Türkis</de>
 			<en>Turquoise</en>
+			<cz>Tyrkysová</cz>
 		</text>
 		<text name="col_brown">
 			<de>Braun</de>
 			<en>Brown</en>
+			<cz>Hnědá</cz>
 		</text>
 		<text name="pos1">
 			<de>Unterhalb des Früchte HUD</de>
 			<en>Below the fruit HUD</en>
+			<cz>Pod HUD plodin</cz>
 		</text>
 		<text name="pos2">
 			<de>Neben dem Fahrzeugschema</de>
 			<en>Next to the vehicle schema</en>
+			<cz>Vedle schématu vozidla</cz>
 		</text>
 		<text name="pos3">
 			<de>Links neben dem Wetter Icon</de>
 			<en>Left to the weather icon</en>
+			<cz>Nalevo od ikony počasí</cz>
 		</text>
 		<text name="pos4">
 			<de>Oben zentriert</de>
 			<en>Top centered</en>
+			<cz>Horní střed</cz>
 		</text>
 		<text name="pos5">
 			<de>Unten zentriert</de>
 			<en>Bottom centered</en>
+			<cz>Spodní střed</cz>
 		</text>
 	</l10n>
 
